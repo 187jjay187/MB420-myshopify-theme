@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="mustbefourtwenty.png" alt="logo" width="140"  height="auto" />
+  <img src="./assets/mustbefourtwenty.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>MustBeFourTwenty Custom Theme</b></h3>
