@@ -12,6 +12,8 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
+- [📖 About the Project](#about-project)
+  - [🚀 Live Demo ](#-live-demo-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -20,23 +22,23 @@
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
-  - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
-  - [👥 Authors ](#-authors--1)
-    - [👤 Maaloum Ely Cheikh](#-maaloum-ely-cheikh-1)
-    - [👤 Soe Sandar Win](#-soe-sandar-win-1)
-    - [👤 Jerome](#-jerome-1)
-  - [🔭 Future Features ](#-future-features--1)
-  - [🤝 Contributing ](#-contributing--1)
-  - [⭐️ Show your support ](#️-show-your-support--1)
-  - [🙏 Acknowledgments ](#-acknowledgments--1)
-  - [📝 License ](#-license--1)
 
+<div align="center">
+  <img src="./assets/Preview.png" alt="project sample" width="650"  height="auto" />
+  <br/>
 
 # 📖 MB420 myshopify theme <a name="about-project"></a>
 
 
-**MB420 myshopify theme** is  a Custom Shopify Theme Template Built for The Branding and user experience of MustBe420.com/mustbefourtwenty.myshopify.com that will help promote a product first experience with it's eCommerce Interface Design
+**MB420 myshopify theme** is a Custom Shopify Theme Template Built for The Branding and user experience of MustBe420.com/mustbefourtwenty.myshopify.com that will help promote a product first experience with it's eCommerce Interface Design
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- Front-end deployed website: [MustBe420 Live Demo](https://mustbefourtwenty.myshopify.com/)
+-  **Password: WebDevJay**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -57,9 +59,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Custom header]**
-- **[Custom Nav Bar Position]**
-- **[Customised for MustBeFourTwenty.com]**
+- **Custom header**
+- **Custom Nav Bar Position**
+- **Customised for MustBeFourTwenty.com**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -78,9 +80,9 @@
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **[More Products]**
-- [ ] **[Theme Revamp]**
-- [ ] **[B2B Intergration]**
+- [ ] **More Products**
+- [ ] **Theme Revamp**
+- [ ] **B2B Intergration**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
