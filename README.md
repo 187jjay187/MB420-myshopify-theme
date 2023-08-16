@@ -25,10 +25,14 @@
   - [📝 License ](#-license-)
 
 <div align="center">
+
+# 📖 MB420 myshopify theme <a name="about-project"></a>
+
   <img src="./assets/Preview.png" alt="project sample" width="650"  height="auto" />
   <br/>
 
-# 📖 MB420 myshopify theme <a name="about-project"></a>
+
+  <h3><b>MB420 myshopify theme</b></h3>
 
 </div>
 
