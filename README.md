@@ -12,14 +12,9 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Catalog of my things\] ](#-catalog-of-my-things-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🚀 Video Recording ](#-Vieo-recording-)
-  - [💻 Getting Started ](#-getting-started-)
-    - [Prerequisites](#prerequisites)
-    - [Run tests](#run-tests)
   - [👥 Authors ](#-authors-)
     - [👤 Jerome](#-jerome)
   - [🔭 Future Features ](#-future-features-)
