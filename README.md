@@ -30,6 +30,7 @@
 
 # 📖 MB420 myshopify theme <a name="about-project"></a>
 
+</div>
 
 **MB420 myshopify theme** is a Custom Shopify Theme Template Built for The Branding and user experience of MustBe420.com/mustbefourtwenty.myshopify.com that will help promote a product first experience with it's eCommerce Interface Design
 
